@@ -1,3 +1,4 @@
 # We create things we want to exist
 
-![Vivy Technologies](https://github.com/user-attachments/assets/e804f64d-98f1-4dce-8bcc-f62dcae3ec86)
+<img width="2162" height="940" alt="Vivy Technologies" src="https://github.com/user-attachments/assets/7ba1db02-d823-4f6a-93e8-2513192b2e18" />
+
