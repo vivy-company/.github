@@ -11,6 +11,6 @@
 - [Numby](https://numby.vivy.app) — Natural language calculator with CLI and TUI.
 - [VivySub](https://vivysub.app) — Next-gen subtitle editor with collaboration and AI.
 - [VVTerm](https://vvterm.com) — Ghostty-powered SSH client for iOS, iPad, macOS.
-
+- [VivyShot](https://vivyshot.com) — Screenshot & recording app for MacOS
 ### Support
 If our apps help you, support our work on [GitHub Sponsors](https://github.com/sponsors/vivy-company).
